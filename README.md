@@ -1,6 +1,6 @@
-### [Try it out today for free on Apify!](https://apify.com/radeance/ahrefs-scraper)
-
 # 💎 Ahrefs SEO Scraper
+
+### [Try it out today for free on Apify!](https://apify.com/radeance/ahrefs-scraper)
 
 ![Ahrefs Scraper Cover Image](https://i.imgur.com/yjWggd1.png)
 | Try our other scrapers ► | [Semrush SEO Scraper](https://apify.com/radeance/semrush-scraper) | [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)| [Social Blade Scraper](https://apify.com/radeance/socialblade-api)
